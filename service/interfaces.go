@@ -1,6 +1,6 @@
 package service
 
-import "dependency_injection/models"
+import "github.com/giridharmb/depedency_injection/models"
 
 type UserService interface {
 	CreateUser(name, email string) error

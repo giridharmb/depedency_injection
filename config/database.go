@@ -1,7 +1,7 @@
 package config
 
 import (
-	"dependency_injection/models"
+	"github.com/giridharmb/depedency_injection/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"dependency_injection/config"
-	"dependency_injection/repository"
-	"dependency_injection/service"
+	"github.com/giridharmb/depedency_injection/config"
+	"github.com/giridharmb/depedency_injection/repository"
+	"github.com/giridharmb/depedency_injection/service"
 )
 
 func main() {

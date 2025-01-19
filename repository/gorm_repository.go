@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"dependency_injection/models"
+	"github.com/giridharmb/depedency_injection/models"
 	"gorm.io/gorm"
 )
 

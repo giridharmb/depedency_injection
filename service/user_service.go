@@ -1,8 +1,8 @@
 package service
 
 import (
-	"dependency_injection/models"
-	"dependency_injection/repository"
+	"github.com/giridharmb/depedency_injection/models"
+	"github.com/giridharmb/depedency_injection/repository"
 )
 
 type DefaultUserService struct {

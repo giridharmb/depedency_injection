@@ -1,6 +1,6 @@
 package repository
 
-import "dependency_injection/models"
+import "github.com/giridharmb/depedency_injection/models"
 
 type UserRepository interface {
 	Create(user *models.User) error
