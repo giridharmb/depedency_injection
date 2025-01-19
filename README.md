@@ -333,7 +333,7 @@ go get -u gorm.io/driver/postgres
 ```bash
 git clone https://github.com/giridharmb/depedency_injection.git depedency_injection
 cd depedency_injection
-go mod init depedency_injection
+go mod init github.com/giridharmb/depedency_injection
 go mod tidy
 ```
 
